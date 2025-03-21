@@ -4,7 +4,7 @@
 
 I've been documenting my Chinese language learning since early March 2025. My current proficiency includes:
 
-- **Basic Grammar Structures**: Using 我能/我可以 (I can), 我会 (I will/can), 我应该 (I should)
+- **Basic Grammar Structures**: Using 我能/我可以 (I can), 我会 (I will/can), 我应该 (I should), 我要 (I want to/will)
 - **Question Words**: Mastered 怎么 (what/how), 为怎么 (why), 谁 (who), 哪里 (where), 怎么时候 (when)
 - **Demonstratives**: Using 这 (this) and 那 (that) with objects and locations
 - **Past Tense**: Expressing completed actions with 了 particle
@@ -13,6 +13,8 @@ I've been documenting my Chinese language learning since early March 2025. My cu
 - **Companion Phrases**: Using 跟 (with) to describe accompanying others
 - **Descriptive Adjectives**: Using 老 (old), 大 (big), 胖 (fat) with change marker 了
 - **Food and Drink**: Basic vocabulary for ordering and discussing meals
+- **Time Expressions**: Using 过一会儿 (in a while/later) to discuss future actions
+- **Future Planning**: Forming sentences with 可不可以 (can we?) and expressing intentions with 我要 (I'm going to)
 
 My notes capture vocabulary, sentence patterns, and grammar points from regular lessons, with progressive complexity from early March through mid-March 2025.
 
