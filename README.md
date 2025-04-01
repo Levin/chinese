@@ -40,3 +40,21 @@ Based on current vocabulary and grammar knowledge, proficiency is estimated arou
 - **Conversation Ability**: Can handle simple conversations on familiar topics, express preferences, make comparisons, and describe past events with increasing detail.
 
 I can understand sentences and frequently used expressions related to areas of most immediate relevance (e.g., very basic personal and family information, shopping, local geography, employment). I can communicate in simple and routine tasks requiring a simple and direct exchange of information on familiar and routine matters. I can describe in simple terms aspects of my background, immediate environment and matters in areas of immediate need.
+
+## Previous Progress (March 2025)
+
+My proficiency documented around mid-March included:
+
+- **Basic Grammar Structures**: Using 我能/我可以 (I can), 我会 (I will/can), 我应该 (I should), 我要 (I want to/will)
+- **Question Words**: Mastered 怎么 (what/how), 为怎么 (why - noting standard is 为什么), 谁 (who), 哪里 (where), 怎么时候 (when)
+- **Demonstratives**: Using 这 (this) and 那 (that) with objects and locations
+- **Past Tense**: Expressing completed actions with 了 particle
+- **Conditional Sentences**: Using 如果 (if) to construct basic conditionals
+- **Location Expressions**: Discussing places like 长城 (Great Wall), 故宫 (Forbidden City)
+- **Companion Phrases**: Using 跟 (with) to describe accompanying others
+- **Descriptive Adjectives**: Using 老 (old), 大 (big), 胖 (fat) with change marker 了
+- **Food and Drink**: Basic vocabulary for ordering and discussing meals
+- **Time Expressions**: Using 过一会儿 (in a while/later) to discuss future actions
+- **Future Planning**: Forming sentences with 可不可以 (can we?) and expressing intentions with 我要 (I'm going to)
+
+My notes from that period capture vocabulary, sentence patterns, and grammar points from regular lessons, with progressive complexity from early March through mid-March 2025.
