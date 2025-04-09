@@ -1,43 +1,56 @@
 # Chinese Learning Journey
 
-## Current Progress (Early April 2025)
+## Latest Focus (April 10, 2025)
+
+- **Targeted Practice**: Conducted focused exercises specifically on:
+    - **Relative Clauses**: Reinforcing the `Modifier + 的 + Noun` structure (e.g., `我昨天借的书`, `刚才给你打电话的人`).
+    - **是...的 Structure**: Practicing its use for emphasizing time, place, manner, and agent in both statements and questions (e.g., `是什么时候来的？`, `是坐火车来的`, `是谁告诉你的？`).
+- **Observations**: Continued practice needed to solidify the application of these two key structures, particularly ensuring correct word order and usage in different contexts (questions vs. statements).
+
+---
+
+## Current Progress (Mid-April 2025)
 
 This log documents my Chinese language learning journey.
 
 Key areas covered recently include:
 
 - **Grammar Structures**:
-    - Emphasizing details of past actions with `是...的` (shì...de)
+    - Emphasizing details of past actions with `是...的` (shì...de) (time, place, manner, agent)
+    - Forming questions with `是...的`
+    - Constructing **Relative Clauses** (Modifier + `的` + Noun) (e.g., `我买的书` - the book I bought)
     - Comparisons using `比` (bǐ)
     - Contrasting ideas with `虽然...但是/还是...` (suīrán...dànshì/háishì)
     - Expressing cause and effect with `因为...所以...` (yīnwèi...suǒyǐ...)
-    - Indicating completion with resultative complements (e.g., `V + 完` wán)
-    - Expressing capability/inability with potential complements (e.g., `看得懂` kàn de dǒng, `听不清楚` tīng bu qīngchu)
+    - Indicating completion with resultative complements (e.g., `V + 完` wán, `V + 好` hǎo)
+    - Expressing capability/inability with potential complements (e.g., `看得懂`, `听不清楚`)
     - Expressing "too..." with `太...了` (tài...le)
     - Using `和...一起` (hé...yìqǐ) for actions done together
-    - Expressing alternatives in statements with `或者` (huòzhě)
+    - Expressing alternatives in statements (`或者` huòzhě) and questions (`还是` háishi)
     - Correct past negation using `没有` (méiyǒu)
-- **Question Words**: Refined use of `为什么` (wèishéme), `什么时候` (shénme shíhou), `怎么` (zěnme) including `怎么去` (zěnme qù)
+    - Expressing "a bit" + adjective (`有点儿 + Adj`, `Adj + 一点儿`)
+- **Question Words & Formation**: Refined use of `为什么`, `什么时候`, `怎么`, `哪里`; correct use of `吗` particle.
 - **Vocabulary Expansion**:
-    - Time: `每天` (měitiān), `周末` (zhōumò), `去年` (qùnián)
-    - People & Relations: `朋友` (péngyou), `哥哥` (gēge)
-    - Objects: `电脑` (diànnǎo), `手机` (shǒujī), `书` (shū), `电子邮件` (diànzǐ yóujiàn), `衣服` (yīfu), `衬衫` (chènshān), `茶` (chá), `火车` (huǒchē), `地铁` (dìtiě)
-    - Actions: `学习` (xuéxí), `买` (mǎi), `写` (xiě), `懂` (dǒng), `练习` (liànxí), `游泳` (yóuyǒng), `坐` (zuò - transport)
-    - Descriptions: `新` (xīn), `长` (cháng), `高` (gāo), `冷` (lěng), `清楚` (qīngchu), `贵` (guì), `坏` (huài - broken), `有意思` (yǒu yìsi)
-    - Places: `上海` (Shànghǎi)
-    - Other: `已经` (yǐjīng), `请` (qǐng), `给` (gěi), `对不起` (duìbuqǐ)
-- **Measure Words**: Practiced `本` (běn - for books), `杯` (bēi - for cups), `件` (jiàn - for clothes), using `两` (liǎng) instead of `二` (èr) before measure words.
+    - Time: `每天`, `周末`, `去年`, `刚才` (gāngcái), `小时` (xiǎoshí), `点` (diǎn), `早上/晚上` (zǎoshang/wǎnshang)
+    - People & Relations: `朋友`, `哥哥`, `妹妹` (mèimei), `妈妈` (māma), `人` (rén)
+    - Objects: `电脑`, `手机`, `书`, `电子邮件`, `衣服`, `衬衫`, `茶`, `咖啡`, `牛奶` (niúnǎi), `蛋糕` (dàngāo), `照片` (zhàopiàn), `礼物` (lǐwù), `作业` (zuòyè)
+    - Actions: `学习`, `买`, `写`, `懂`, `练习`, `游泳`, `跑步` (pǎobù), `锻炼` (duànliàn), `坐`, `拍` (pāi), `借/还` (jiè/huán), `告诉` (gàosu), `帮助` (bāngzhù), `迟到` (chídào), `逛街` (guàngjiē), `弹钢琴` (tán gāngqín), `打电话` (dǎ diànhuà), `发短信` (fā duǎnxìn), `准备` (zhǔnbèi)
+    - Descriptions: `新`, `长`, `高`, `冷`, `清楚`, `贵`, `坏`, `有意思`, `快` (kuài), `难` (nán), `不错` (búcuò), `忙` (máng), `慢` (màn), `大声` (dàshēng), `安静` (ānjìng)
+    - Places: `上海`, `北京` (Běijīng), `家` (jiā), `公园` (gōngyuán), `图书馆` (túshūguǎn), `城市` (chéngshì)
+    - Events: `考试` (kǎoshì), `聚会` (jùhuì), `会议` (huìyì)
+    - Other: `已经`, `请`, `给`, `对不起`, `应该` (yīnggāi)
+- **Measure Words**: Continued practice (`本`, `杯`, `件`, `瓶` píng, `个` gè, `家` jiā), using `两`.
 
-My study involves regular practice translating sentences, focusing on applying learned grammar and vocabulary, with feedback provided on accuracy and naturalness.
+My study involves regular practice translating sentences, focusing on applying learned grammar and vocabulary. **Recent sessions have included targeted exercises specifically on Relative Clauses and the `是...的` structure to improve accuracy and fluency with these patterns.**
 
 ## HSK Level Assessment
 
 Based on current vocabulary and grammar knowledge, proficiency is estimated around:
 
-- **HSK Level 2 (Solid) / HSK Level 3 (Emerging)**: Comfortable with most HSK 2 requirements (300 words, core grammar). Starting to incorporate HSK 3 structures like potential complements, `比` comparisons, and resultative complements.
-- **Strengths**: Basic sentence structures, question formation, past negation, time expressions, common vocabulary.
-- **Areas for Growth**: Consistent application of more complex grammar (e.g., `比`, complements), expanding vocabulary, improving naturalness and fluency.
-- **Conversation Ability**: Can handle simple conversations on familiar topics, express preferences, make comparisons, and describe past events with increasing detail.
+- **HSK Level 2 (Solid) / HSK Level 3 (Developing)**: Comfortable with HSK 2 requirements. Actively working on HSK 3 structures like complements, comparisons, and basic relative clauses.
+- **Strengths**: Basic sentence structures, comparisons with `比`, choice questions with `还是`, past negation, time expressions, core vocabulary.
+- **Areas for Growth**: **Consistent and accurate application of Relative Clauses and the `是...的` structure.** Expanding vocabulary, improving sentence fluency and naturalness.
+- **Conversation Ability**: Can handle simple conversations on familiar topics, make comparisons, describe past events, and increasingly understand and use more complex sentence patterns.
 
 I can understand sentences and frequently used expressions related to areas of most immediate relevance (e.g., very basic personal and family information, shopping, local geography, employment). I can communicate in simple and routine tasks requiring a simple and direct exchange of information on familiar and routine matters. I can describe in simple terms aspects of my background, immediate environment and matters in areas of immediate need.
 
